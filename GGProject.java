@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
 /**
-* GGChebanov class written for CS313 Project
+* GGProject class written for CS313 Project
 * @author Oleksandr Chebanov
 */
 public class GGProject extends JFrame {
